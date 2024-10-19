@@ -1,0 +1,13 @@
+Los datos unidos son: 
+Nombre: daniel
+Apellido: lara
+------------
+Nombre: alejandro
+Apellido: lopez
+------------
+Nombre: eric
+Apellido: williams
+------------
+Nombre: eden
+Apellido: hazard
+------------
